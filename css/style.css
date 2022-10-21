@@ -380,6 +380,13 @@
 			line-height: 180%;
 			color: #FFF;
 		}
+table {
+  margin-left: -4%;
+  font-family: sans-serif;
+  background: white;
+  border-width: 2;
+  border-color: white;
+}
 
 /* Tables */
 
